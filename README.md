@@ -1,6 +1,6 @@
 <div align="center">
 
-### Nicole Villavicencio-Garduño
+# Nicole Villavicencio-Garduño
 
 AI security researcher working on adversarial ML and data science.
 
