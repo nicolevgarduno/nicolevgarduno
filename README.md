@@ -17,6 +17,8 @@ I earned my M.S. in Information Security with a focus in AI Engineering at Carne
 
 Outside of trying to break things, I am incredibly interested in supporting first-generation minorities in STEM. I am the Vice President of Operations for the [NM Society of Hispanic Professional Engineers Chapter](https://shpenewmexico.org/) and a co-lead for the CMU Rales Alumni Network.
 
+Happy to [connect](https://www.linkedin.com/in/nicolevgarduno/) and chat about basically anything!
+
 ### Selected work
 
 - **[Giving AI a Headache](https://github.com/nicolevgarduno/Giving-AI-a-Headache)** — the acoustic adversarial attack research behind the paper above.
