@@ -19,12 +19,6 @@ Outside of trying to break things, I am incredibly interested in supporting firs
 
 Happy to [connect](https://www.linkedin.com/in/nicolevgarduno/) and chat about basically anything!
 
-### Selected work
-
-- **[Giving AI a Headache](https://github.com/nicolevgarduno/Giving-AI-a-Headache)** — the acoustic adversarial attack research behind the paper above.
-- **[GoNoGo](https://github.com/nicolevgarduno/course-project-option-1-nicolevgarduno)** — a quality-gated CI/CD pipeline across three Terraform-provisioned GKE clusters (Jenkins, SonarQube, Hadoop).
-- **[StayAwake](https://github.com/nicolevgarduno/UserSens)** — real-time computer vision tool detecting lost focus (eye closure, yawning, head orientation) with per-user calibration.
-
 ### Tech
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
