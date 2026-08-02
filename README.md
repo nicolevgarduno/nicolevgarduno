@@ -6,8 +6,7 @@ AI security researcher working on adversarial ML and data science.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=KmeKEr8AAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolevgarduno)
-[![Personal Website](www.nicolevgarduno.com)
-[![Personal Website]([https://img.shields.io/badge/personal_website](https://img.shields.io/badge/Personal_Website-pink)](https://www.linkedin.com/in/nicolevgarduno)
+[![Personal Website](https://img.shields.io/badge/personal_website](https://img.shields.io/badge/Personal_Website-pink)](https://www.linkedin.com/in/nicolevgarduno)
 
 </div>
 
