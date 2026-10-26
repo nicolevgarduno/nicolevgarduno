@@ -12,7 +12,7 @@ AI security researcher working on adversarial ML and data science.
 
 ---
 
-Hi! I'm a post-master's researcher at LANL's [Advanced Research for Cyber Systems](https://www.lanl.gov/engage/organizations/analytics-intelligence-technology/a4-advanced-research-cyber-systems) group where I work on adversarial AI and machine learning— mostly at the intersection of computer vision and the physical world.
+Hi! I recently joined MITRE's AI, Autonomy, & Data group as an AI Security Engineer. Previously, I was a post-master's researcher in LANL's Advanced Research for Cyber Systems group where I worked on adversarial AI and machine learning — mostly at the intersection of computer vision and the physical world.
 
 I earned my M.S. in Information Security with a focus in AI Engineering at Carnegie Mellon as a [Rales Fellow](https://www.cmu.edu/graduate/rales-fellows/), and studied Applied Computer Science at Birmingham-Southern College. I'm interested in how AI systems fail in the physical world, and what that means for building ones that are actually trustworthy under adversarial conditions.
 
